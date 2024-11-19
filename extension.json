@@ -1,0 +1,10 @@
+{
+    "module": "DarkTheme EspoCRM",
+    "acceptableVersions": [
+        ">=7.2.0"
+    ],
+    "php": [
+        ">=7.4"
+    ],
+    "releaseDate": "2022-09-16",
+}
