@@ -1,12 +1,5 @@
 {
-    "module": "DubasDarkTheme",
-    "name": "Dubas Dark Theme",
-    "description": "More modern theme adjusted by dubas.pro. Paid support available through email contact@devcrm.it.",
-    "author": "DUBAS S.C. - contact@dubas.pro",
-    "authors": [
-        "Arkadiy Asuratov",
-        "Emil Dubielecki"
-    ],
+    "module": "DarkTheme EspoCRM",
     "acceptableVersions": [
         ">=7.2.0"
     ],
@@ -14,9 +7,4 @@
         ">=7.4"
     ],
     "releaseDate": "2022-09-16",
-    "checkVersionUrl": "https://devcrm.it",
-    "buildIgnorePathList": [
-        "client/custom/modules/dubas-dark-theme/node_modules",
-        "client/custom/modules/dubas-dark-theme/frontend"
-    ]
 }
